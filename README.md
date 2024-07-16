@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amritv0306
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on project related to Machine Learning and Automation
 - 📫 How to reach me https://www.linkedin.com/in/amrit-v306/
 
 <!---
