@@ -1,12 +1,12 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Amrit Verma 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Developer;Machine+Learning+Enthusiast;Robotics+Innovator;Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Developer;Machine+Learning+Enthusiast;Problem+Solver;Prompt+Engineer" alt="Typing SVG">
   
   <p align="center">
     <a href="https://linkedin.com/in/amrit-v306" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/amritv0306" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <!-- Add your email here -->
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:amritishoney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
   <p align="center">
@@ -17,22 +17,22 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Chemical Engineering undergraduate at **NIT Warangal** with a deep-rooted passion for software development and intelligent systems. I thrive on translating complex problems into elegant, efficient code, whether it's for web applications, machine learning models, or robotic systems.
+I'm a Chemical Engineering undergraduate at **NIT Warangal** with a deep-rooted passion for software development and intelligent systems. I thrive on translating complex problems into elegant, efficient code, whether it's for web applications, machine learning models, or Data Structure and Algorithm Problems.
 
 ```bash
 class AmritVerma:
-def init(self):
-self.name = "Amrit Verma"
-self.location = "Hyderabad, India"
-self.education = "B.Tech, Chemical Engineering @ NIT Warangal"
-self.passions = [
-"Software Development",
-"Machine Learning",
-"Robotics",
-"Problem Solving"
-]
+    def init(self):
+        self.name = "Amrit Verma"
+        self.location = "Hyderabad, India"
+        self.education = "B.Tech, Chemical Engineering @ NIT Warangal"
+        self.passions = [
+          "Software Development",
+          "Machine Learning",
+          "Robotics",
+          "Problem Solving"
+        ]
 def current_focus(self):
     return [
         "AI-driven Automation with LLMs (Gemini)",
@@ -45,10 +45,20 @@ def goal(self):
     return "To build innovative, technology-driven solutions that create a tangible impact."
 ```
 
+---
+
+## 🎓 Education
+
+
+- 🏛️ **National Institut of Technology Warangal** (2022-Present)  
+  B.Tech in Chemical Engineering  
+  📊 **CGPA:** 7.20
+  
 
 ---
 
-### 🛠️ Technical Skillset
+
+## 🛠️ Technical Skillset
 
 <div align="center">
   
@@ -87,18 +97,30 @@ def goal(self):
 
 ---
 
-### 💼 Professional Experience
+## 💼 Professional Experience
+
+#### **Software Engineering Intern** | *Innovatecloude Solutions*
+**📅 May 2025 - July 2025 | 📍 Bangalore, India**
+- Worked in solving various issues in the companies different servies including maintaining a Job Seeker Web based portal 
+- Deployed it using Render
+
+#### **RISC Delegate** | *CSE IIT Bombay*
+**📅 March 2025 - March 2025 | 📍 Bombay, India**
+- Actively participated in conversations on latest computer system technologies.
+- Explored GIS-based land records and computational techniques for real-world challenges like "Planar Graphs in Real Life – The Problem of Land Records".
 
 #### **Executive** | *Robotics Club, NIT Warangal*
-**📅 Feb 2023 - Present | 📍 Warangal, India**
+**📅 Feb 2023 - Jan 2025 | 📍 Warangal, India**
 - Actively contribute to various robotics projects, developing skills in both hardware and software integration.
 - Collaborate with team members to design, build, and program robots for club activities and competitions.
 
-#### **Lead Member** | *e-Yantra, IIT Bombay*
-**📅 Sep 2023 - Dec 2023 | 📍 Warangal, India**
-- Led a team of four in the e-Yantra Robotics Competition (eYRC), focusing on the "Cosmo Logistic" theme.
-- Engineered a robotic solution using **ROS, Nav2, SLAM, MoveIt, AMCL, and EKF** for autonomous navigation and task execution.
-- Integrated **OpenCV** for computer vision-based object recognition and manipulation.
+
+
+#### **Summer Intern** | *Indian Oil Corporation Limited*
+**📅 May 2024 - June 2024 | 📍 Mathura (UP), India**
+- Gained hands-on experience with industry-standard tools and methodologies.
+- Enhanced technical proficiency in refinery operations and process engineering.
+
 
 #### **Project Intern** | *Intrainz*
 **📅 Jul 2023 - Sep 2023 | 📍 Warangal, India**
@@ -108,9 +130,9 @@ def goal(self):
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-> You can add links to your repositories by replacing `#` with the actual URL.
+<!-- > You can add links to your repositories by replacing `#` with the actual URL. -->
 
 <table>
 <tr>
@@ -121,7 +143,7 @@ A novel solution to the LinkedIn Queens Puzzle that combines algorithmic problem
 - **Tech Stack:** Python, OpenCV, Recursive Algorithms.
 - Implemented a recursive backtracking algorithm to solve the N-Queens problem.
 - Utilized **OpenCV** to automatically detect block colors from an input image and map the final solution visually.
-- **[View on GitHub](#)**
+- **[View on GitHub](https://github.com/amritv0306/Queens_Game_Solver)**
 
 </td>
 <td width="50%">
@@ -131,7 +153,7 @@ An autonomous robot designed for warehouse logistics and material handling as pa
 - **Tech Stack:** ROS, C++, Python, OpenCV, SLAM, Nav2.
 - Implemented **SLAM** for mapping environments and **AMCL/EKF** for robust localization.
 - Utilized the **Navigation2 (Nav2)** stack for intelligent path planning and obstacle avoidance.
-- **[View on GitHub](#)**
+<!-- - **[View on GitHub](#)** -->
 
 </td>
 </tr>
@@ -143,7 +165,7 @@ A machine learning application to differentiate between real and fake news artic
 - **Tech Stack:** Python, Scikit-learn, Pandas, NLP.
 - Employed NLP techniques for text preprocessing and feature extraction (TF-IDF).
 - Trained and evaluated multiple classification models to achieve high detection accuracy.
-- **[View on GitHub](#)**
+- **[View on GitHub](https://github.com/amritv0306/Fake-News-Detection)**
 
 </td>
 <td width="50%">
