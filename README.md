@@ -22,27 +22,30 @@
 I'm a Chemical Engineering undergraduate at **NIT Warangal** with a deep-rooted passion for software development and intelligent systems. I thrive on translating complex problems into elegant, efficient code, whether it's for web applications, machine learning models, or Data Structure and Algorithm Problems.
 
 ```bash
-class AmritVerma:
-    def init(self):
-        self.name = "Amrit Verma"
-        self.location = "Hyderabad, India"
-        self.education = "B.Tech, Chemical Engineering @ NIT Warangal"
-        self.passions = [
-          "Software Development",
-          "Machine Learning",
-          "Robotics",
-          "Problem Solving"
-        ]
-def current_focus(self):
-    return [
-        "AI-driven Automation with LLMs (Gemini)",
-        "Advanced Data Structures & Algorithms",
-        "Full-Stack Development",
-        "Contributing to Open Source (OpenCV)"
-    ]
+curl -X POST \
+  -H "Authorization: Bearer <your-access-token>" \
+  -H "Content-Type: application/json" \
+  https://api.amritv.me/aboutme \
+  -d '{
+    "name": "Amrit Verma",
+    "location": "Hyderabad, India",
+    "education": "B.Tech, Chemical Engineering @ NIT Warangal",
+    "passions": [
+      "Software Development",
+      "Machine Learning",
+      "Robotics",
+      "Problem Solving"
+    ],
+    "current_focus": [
+      "AI-driven Automation with LLMs (Gemini)",
+      "Advanced Data Structures & Algorithms",
+      "Full-Stack Development",
+      "Contributing to Open Source (OpenCV)"
+    ],
+    "goal": "To build innovative, technology-driven solutions that create a tangible impact."
+  }' 2>/dev/null >response.json
 
-def goal(self):
-    return "To build innovative, technology-driven solutions that create a tangible impact."
+jq -r ".goal" response.json
 ```
 
 ---
