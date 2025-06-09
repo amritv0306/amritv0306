@@ -7,6 +7,8 @@
     <a href="https://github.com/amritv0306" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <!-- Add your email here -->
     <a href="mailto:amritishoney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.instagram.com/amrit_v306/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    
   </p>
 
   <p align="center">
