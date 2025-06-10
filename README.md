@@ -106,7 +106,7 @@ jq -r ".goal" response.json
 
 #### **Software Engineering Intern** | *Innovatecloude Solutions*
 **📅 May 2025 - July 2025 | 📍 Bangalore, India**
-- Worked in solving various issues in the companies different servies including maintaining a Job Seeker Web based portal 
+- Worked in solving various issues in the companies different servcies including maintaining a Job Seeker Web based portal 
 - Deployed it using Render
 
 #### **RISC Delegate** | *CSE IIT Bombay*
@@ -116,7 +116,7 @@ jq -r ".goal" response.json
 
 #### **Executive** | *Robotics Club, NIT Warangal*
 **📅 Feb 2023 - Jan 2025 | 📍 Warangal, India**
-- Actively contribute to various robotics projects, developing skills in both hardware and software integration.
+- Actively contributed to various robotics projects, developing skills in both hardware and software integration.
 - Collaborate with team members to design, build, and program robots for club activities and competitions.
 
 
