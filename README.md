@@ -194,7 +194,7 @@ A machine learning application to differentiate between real and fake news artic
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amritv0306&show_icons=true&theme=radical&count_private=true" alt="Amrit's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritv0306&theme=radical" alt="Amrit's GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritv0306&theme=radical" alt="Amrit's GitHub Streak" /> -->
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritv0306&layout=compact&theme=radical" alt="Top Languages" />
 </div>
