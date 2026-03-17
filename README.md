@@ -104,7 +104,7 @@ jq -r ".goal" response.json
 
 ## 💼 Professional Experience
 
-#### **Software Engineering Intern** | *Innovatecloude Solutions*
+#### **Python Developer Intern** | *Innovatecloude Solutions*
 **📅 May 2025 - July 2025 | 📍 Bangalore, India**
 - Worked in solving various issues in the companies different servcies including maintaining a Job Seeker Web based portal 
 - Deployed it using Render
@@ -121,7 +121,7 @@ jq -r ".goal" response.json
 
 
 
-#### **Summer Intern** | *Indian Oil Corporation Limited*
+#### **Technical Services Intern** | *Indian Oil Corporation Limited*
 **📅 May 2024 - June 2024 | 📍 Mathura (UP), India**
 - Gained hands-on experience with industry-standard tools and methodologies.
 - Enhanced technical proficiency in refinery operations and process engineering.
