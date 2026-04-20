@@ -12,6 +12,8 @@
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=amritv0306&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views">
+  </p>
+   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=amritv0306&theme=radical&column=7" alt="GitHub Trophy"></a>
   </p>
 </div>
