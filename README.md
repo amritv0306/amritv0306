@@ -1,11 +1,10 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Amrit Verma 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Developer;Machine+Learning+Enthusiast;Problem+Solver;Prompt+Engineer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Developer;Machine+Learning+Enthusiast;Problem+Solver;Prompt+Engineer;AI+Implementation+Engineer" alt="Typing SVG">
   
   <p align="center">
     <a href="https://linkedin.com/in/amrit-v306" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/amritv0306" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <!-- Add your email here -->
     <a href="mailto:amritishoney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://www.instagram.com/amrit_v306/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     
@@ -13,7 +12,7 @@
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=amritv0306&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritv0306&theme=radical&column=7" alt="GitHub Trophy"></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=amritv0306&theme=radical&column=7" alt="GitHub Trophy"></a>
   </p>
 </div>
 
@@ -41,7 +40,6 @@ curl -X POST \
     "current_focus": [
       "AI-driven Automation with LLMs (Gemini)",
       "Advanced Data Structures & Algorithms",
-      "Full-Stack Development",
       "Contributing to Open Source (OpenCV)"
     ],
     "goal": "To build innovative, technology-driven solutions that create a tangible impact."
@@ -55,7 +53,7 @@ jq -r ".goal" response.json
 ## 🎓 Education
 
 
-- 🏛️ **National Institut of Technology Warangal** (2022-Present)  
+- 🏛️ **National Institut of Technology Warangal** (2022-2026)  
   B.Tech in Chemical Engineering  
   📊 **CGPA:** 7.20
   
@@ -104,34 +102,47 @@ jq -r ".goal" response.json
 
 ## 💼 Professional Experience
 
-#### **Python Developer Intern** | *Innovatecloude Solutions*
+#### **⇶Campus Delegate** | *WeMakeScholars*
+**📅 December 2025 - February 2026 | 📍 Remote**
+- Helped students on campus screuring a strong Scholarships for there higher studies.
+- Enhanced public speaking skill and Leadership skill by connecting with diffrent people 
+
+
+#### **⇶HPAIR Delegate** | *Havard Project for Asian and International Relations*
+**📅 July 2025 - November 2025 | 📍 Tokyo, Japan**
+- Secured a delegate position at the HPAIR 2025 Asia Conference to analyze the role of emerging technologies and AI in shaping international development and policy.
+- Recognized for leadership potential and a keen interest in applying technology to solve global-scale challenges, earning a place at the conference held at the University of Tokyo.
+
+
+#### **⇶Python Developer Intern** | *Innovatecloude Solutions*
 **📅 May 2025 - July 2025 | 📍 Bangalore, India**
 - Worked in solving various issues in the companies different servcies including maintaining a Job Seeker Web based portal 
 - Deployed it using Render
 
-#### **RISC Delegate** | *CSE IIT Bombay*
+
+#### **⇶RISC Delegate** | *CSE IIT Bombay*
 **📅 March 2025 - March 2025 | 📍 Bombay, India**
 - Actively participated in conversations on latest computer system technologies.
 - Explored GIS-based land records and computational techniques for real-world challenges like "Planar Graphs in Real Life – The Problem of Land Records".
 
-#### **Executive** | *Robotics Club, NIT Warangal*
-**📅 Feb 2023 - Jan 2025 | 📍 Warangal, India**
-- Actively contributed to various robotics projects, developing skills in both hardware and software integration.
-- Collaborate with team members to design, build, and program robots for club activities and competitions.
 
-
-
-#### **Technical Services Intern** | *Indian Oil Corporation Limited*
+#### **⇶Technical Services Intern** | *Indian Oil Corporation Limited*
 **📅 May 2024 - June 2024 | 📍 Mathura (UP), India**
 - Gained hands-on experience with industry-standard tools and methodologies.
 - Enhanced technical proficiency in refinery operations and process engineering.
 
 
-#### **Project Intern** | *Intrainz*
+#### **⇶Project Intern** | *Intrainz*
 **📅 Jul 2023 - Sep 2023 | 📍 Warangal, India**
 - Developed and implemented machine learning models in the domain of Artificial Intelligence.
 - Built a **"Spam News Detection"** model to classify articles, gaining experience in Natural Language Processing (NLP).
 - Implemented **K-means clustering** from scratch to understand and apply unsupervised learning techniques for data analysis.
+
+  
+#### **⇶Executive** | *Robotics Club, NIT Warangal*
+**📅 Feb 2023 - Jan 2025 | 📍 Warangal, India**
+- Actively contributed to various robotics projects, developing skills in both hardware and software integration.
+- Collaborate with team members to design, build, and program robots for club activities and competitions.
 
 ---
 
