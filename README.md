@@ -28,19 +28,20 @@ I'm a Chemical Engineering undergraduate at **NIT Warangal** with a deep-rooted 
 curl -X POST \
   -H "Authorization: Bearer <your-access-token>" \
   -H "Content-Type: application/json" \
-  https://api.amritv.me/aboutme \
+  https://amritv0306.github.io/Personal_Portfolio/ \
   -d '{
     "name": "Amrit Verma",
-    "location": "Hyderabad, India",
+    "location": "Bengaluru, India",
     "education": "B.Tech, Chemical Engineering @ NIT Warangal",
     "passions": [
+      "AI Engineer",
       "Software Development",
       "Machine Learning",
       "Robotics",
       "Problem Solving"
     ],
     "current_focus": [
-      "AI-driven Automation with LLMs (Gemini)",
+      "AI-driven Automation with LLMs",
       "Advanced Data Structures & Algorithms",
       "Contributing to Open Source (OpenCV)"
     ],
